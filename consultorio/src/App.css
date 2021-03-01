@@ -1,0 +1,11 @@
+:root {
+    /* --bg: #242526; */
+    --bg: white;
+    --bg-accent: #484a4d;
+    --text-color: black;
+    --nav-size: 65px;
+    --border-radius: 8px;
+    --speed: 500ms;
+    --border: 1px solid #474a4d;
+    --eva-color: red;
+}

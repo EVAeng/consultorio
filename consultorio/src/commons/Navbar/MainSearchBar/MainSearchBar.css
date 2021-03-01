@@ -1,0 +1,28 @@
+.main__search__bar {
+    padding: 0 20px;
+    padding-top: 10px;
+    z-index: 1;
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, .04);
+    border-radius: 999px;
+    min-width: 230px;
+}
+
+.search__bar>input {
+    min-height: 30px;
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 16px;
+    padding-bottom: 8px;
+}
+
+.search__bar>input::placeholder {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.25)
+}
+
+#search_button {
+    color: rgba(0, 0, 0, .25);
+    transform: scale(1.1);
+}
