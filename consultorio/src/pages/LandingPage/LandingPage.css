@@ -1,0 +1,13 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.cita {
+    border-radius: 30%;
+    padding: 5px;
+    -webkit-mask-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 1)), to(rgba(0, 0, 0, 0)));
+    /* border: 1px solid #ddd; */
+}

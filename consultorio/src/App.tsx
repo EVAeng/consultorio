@@ -16,7 +16,6 @@ function App() {
 					<Route path="/" component={LandingPage} />
             	</Switch>
 			</Router>
-			Listo para su cita?
 			{/* <Video width={700} height={400}/> */}
 		</div>
 	);
