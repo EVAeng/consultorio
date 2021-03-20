@@ -47,5 +47,17 @@
     "devDependencies": {
         "@types/react-router-dom": "^5.1.7",
         "@types/materialize-css": "^1.0.8"
+    },
+    "bit": {
+        "env": {
+            "compiler": "bit.envs/compilers/react-typescript@4.0.0"
+        },
+        "componentsDefaultDirectory": "src/commons/{name}",
+        "packageManager": "npm",
+        "resolveModules": {
+            "modulesDirectories": [
+                "src"
+            ]
+        }
     }
 }

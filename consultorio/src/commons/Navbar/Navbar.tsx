@@ -3,7 +3,7 @@ import 'materialize-css';
 
 import "commons/Navbar/Navbar.css"
 import { Link } from 'react-router-dom';
-import MainSearchBar from "commons/Navbar/MainSearchBar/MainSearchBar";
+import MainSearchBar from "commons/MainSearchBar/MainSearchBar";
 // import NoUserOptions from "components/common/NoUserOptions/NoUserOptions";
 // import UserOptions from "components/common/UserOptions/UserOptions";
 

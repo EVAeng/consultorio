@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 import SearchIcon from '@material-ui/icons/Search';
 
-import "commons/Navbar/MainSearchBar/MainSearchBar.css"
+import "commons/MainSearchBar/MainSearchBar.css"
 import { Grid } from "@material-ui/core";
 
 
